@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cabpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-11 07:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: cpress"
+
+#: cabpress.php:185
+msgid ""
+"Activate you license to get the a shortcode, the shortcode is the code that "
+"display your form in the page where you paste it"
+msgstr ""
+
+#. Description of the plugin
+msgid "cab Booking for Wordpress."
+msgstr ""
+
+#. Name of the plugin
+msgid "Cabpress"
+msgstr ""
+
+#: cabpress.php:78
+msgid "Cabpress plugin."
+msgstr ""
+
+#: cabpress.php:265
+msgid "Choose the city to point at with google map"
+msgstr ""
+
+#: cabpress.php:279
+msgid "Choose the country that the map will display, us for USA"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:128
+msgid "city_map"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:137
+msgid "country"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:86
+msgid "Currency"
+msgstr ""
+
+#: cabpress.php:312
+msgid "Email to receive you bookings"
+msgstr ""
+
+#: cabpress.php:287
+msgid "Etats unis"
+msgstr ""
+
+#: cabpress.php:209
+msgid "eur"
+msgstr ""
+
+#: cabpress.php:284
+msgid "France"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:101
+msgid "google_api_key"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:160
+msgid "notification_email"
+msgstr ""
+
+#: cabpress.php:298
+msgid "Price per km"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:151
+msgid "price_km"
+msgstr ""
+
+#: cabpress.php:223
+msgid "Put your Google API key and use google map"
+msgstr ""
+
+#: cabpress.php:237
+msgid "Put your Stripe API key and get payments"
+msgstr ""
+
+#: cabpress.php:251
+msgid "Put your Stripe PUBLIC API key and get payments"
+msgstr ""
+
+#: cabpress.php:361
+msgid "Settings Saved"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:110
+msgid "stripe_api_key"
+msgstr ""
+
+#. Use $args' label_for to populate the id inside the callback.
+#: cabpress.php:119
+msgid "stripe_public_api_key"
+msgstr ""
+
+#. Author of the plugin
+msgid "themesntemplates.com"
+msgstr ""
+
+#: cabpress.php:212
+msgid "usd"
+msgstr ""
